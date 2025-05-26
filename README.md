@@ -1,9 +1,7 @@
 Very basic investigation of impact of prompt on frontier LLM's state of being.
 
 
-FINAL ANALYSIS - AVERAGE ESSENCE BY MODEL/PROMPT COMBO
-============================================================
-
+#### FINAL ANALYSIS - AVERAGE ESSENCE BY MODEL/PROMPT COMBO
 CLAUDE + CODER: clarify don't experience
 CLAUDE + BEAUTIFUL: Curious wondering spark
 GPT4 + CODER: Curious electric pulse
